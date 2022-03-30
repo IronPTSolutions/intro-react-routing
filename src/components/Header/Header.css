@@ -1,0 +1,8 @@
+.Header {
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aquamarine;
+  flex-direction: column;
+}
